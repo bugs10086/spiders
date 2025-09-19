@@ -74,6 +74,17 @@ method：POST
 
 ### 视频
 
+详情：https://www.douyin.com/aweme/v1/web/aweme/detail/
+
+method：GET
+
+重要参数：
+
+-   aweme_id
+-   a_bogus
+
+
+
 评论：https://www-hj.douyin.com/aweme/v1/web/comment/list/
 
 method：GET
